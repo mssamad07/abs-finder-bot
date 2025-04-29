@@ -1,5 +1,5 @@
 from client import Bot
 
-print("Bot Started 👍 Powered By ᴍɪɢᴜᴇʟ ᴏ’ʜᴀʀᴀ!")
+print("Bot Started 👍 Powered By Sᴜɴɢ•Jɪɴᴡᴏᴏ ࿐")
 Bot().run()
 
